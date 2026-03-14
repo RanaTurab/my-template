@@ -20,7 +20,7 @@ function Navbar() {
                     </nav>
 
                     <Link to="https://www.instagram.com/rana.turab?igsh=MW1wbnh2cmZtYWVsNw== ">
-                        <span className='bg-gray-700 rounded-2xl py-5 px-10 hover:bg-gray-800 hover:text-blue-600'>GET IN TOUCH</span>
+                        <button className='bg-gray-700 rounded-2xl py-5 px-10 hover:bg-gray-800 hidden md:inline-block hover:text-blue-600'>GET IN TOUCH</button>
                     </Link>
                     {/* <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button> */}
                     {/* <button class="inline-flex items-center bg-gray-500 border-0 py-3 px-5  text-white focus:outline-none hover:bg-gray-600 rounded text-black-300 mt-4 md:mt-0">
